@@ -1,4 +1,4 @@
-# Billing-System
+# Grocery-Store-Billing-System
 A C program simulating a grocery store inventory management and billing system. This project uses stacks and file handling to maintain store inventory records and provides a simple user interface for admins and customers.
 
 ## Features
